@@ -29,6 +29,8 @@ Sou desenvolvedor iOS focado em criar bem pensadas e eficazes. Finalizei a turma
   <a href="https://github.com/cauanlgaldino" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div> 
 
+![Snake animation](https://github.com/cauanlgaldino/cauanlgaldino/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 <div align="center">
