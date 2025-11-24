@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Cauan Galdino
 
-<!--
-**cauanlgaldino/cauanlgaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor iOS focado em criar soluções simples, funcionais e bem pensadas, trabalhando com clareza técnica e cuidado na experiência. Atualmente curso Engenharia de Computação no IFCE e finalizei o programa bienal da Apple Developer Academy.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias e focos atuais
+- Swift • SwiftUI • UIKit  
+- MVVM • MVVMC • SwiftData • Combine  
+- Auto Layout • Acessibilidade em iOS  
+- Prototipação • Design System • User Flows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Sempre aprendendo sobre
+- Arquitetura de apps  
+- Experiência de usuário  
+- Boas práticas de engenharia  
+- Frameworks do ecossistema Apple  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=dracula"/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  
+![Snake animation](https://github.com/cauanlgaldino/cauanlgaldino/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📫 Onde me encontrar
+- **LinkedIn:** https://www.linkedin.com/in/cauan-galdino  
+- **Email:** cauanlgaldino@gmail.com  
