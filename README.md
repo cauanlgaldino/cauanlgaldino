@@ -3,9 +3,7 @@
 Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy e atualmente curso Engenharia de Computação no IFCE.
 
 <div>
-  <a href="https://github.com/cauanlgaldino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/cauanlgaldino"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a><a href="https://github.com/cauanlgaldino"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=radical"/></a>
 </div>
 
 ---
