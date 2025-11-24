@@ -27,7 +27,16 @@ Sou desenvolvedor iOS focado em criar soluções simples, funcionais e bem pensa
 
 </div>
 
----
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Swift" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Go" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+</div>
+
 
 ## 🐍 Minhas contribuições
 
