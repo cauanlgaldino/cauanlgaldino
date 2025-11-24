@@ -3,10 +3,11 @@
 Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy e atualmente curso Engenharia de Computação no IFCE.
 
 <div>
-  <a href="https://github.com/cauanlgaldino"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a><a href="https://github.com/cauanlgaldino"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=radical"/></a>
+  <a href="https://github.com/cauanlgaldino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-##
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"">
@@ -16,7 +17,7 @@ Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finali
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 </div>
 
-##
+---
 
 <div>
   <a href="https://www.linkedin.com/in/cauan-galdino-2867a0297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
