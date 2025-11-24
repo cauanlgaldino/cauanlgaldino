@@ -1,22 +1,9 @@
-## 👋 Olá! Eu sou o Cauan Galdino
+## Opa! Me chamo Cauan Galdino 👋🏽
 
-Sou desenvolvedor iOS focado em criar soluções simples, funcionais e bem pensadas, trabalhando com clareza técnica e cuidado na experiência. Atualmente curso Engenharia de Computação no IFCE e finalizei o programa bienal da Apple Developer Academy.
+Sou desenvolvedor iOS focado em criar soluções simples, funcionais e bem pensadas. Atualmente curso Engenharia de Computação no IFCE e finalizei a turma regular do Apple Developer Academy.
 
-### 🚀 Tecnologias e focos atuais
+### Tecnologias e focos atuais
 - Swift • SwiftUI • UIKit  
-- MVVM • MVVMC • SwiftData • Combine  
-- Auto Layout • Acessibilidade em iOS  
-- Prototipação • Design System • User Flows  
-
-### 📚 Sempre aprendendo sobre
-- Arquitetura de apps  
-- Experiência de usuário  
-- Boas práticas de engenharia  
-- Frameworks do ecossistema Apple  
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
