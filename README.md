@@ -9,7 +9,8 @@ Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finali
 
 ---
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br> -->
+<div>
   <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"">
   <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
