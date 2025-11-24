@@ -11,7 +11,7 @@ Sou desenvolvedor iOS focado em criar bem pensadas e eficazes. Finalizei a turma
 
 ##
 
-<div><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -20,25 +20,20 @@ Sou desenvolvedor iOS focado em criar bem pensadas e eficazes. Finalizei a turma
 </div>
 
 <div align="center">
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/cauan-galdino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <!-- Instagram -->
   <a href="https://instagram.com/cauanlgaldino" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <!-- Email -->
   <a href="mailto:cauanlgaldino@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <!-- GitHub (acesso ao seu perfil) -->
   <a href="https://github.com/cauanlgaldino" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
 </div>
