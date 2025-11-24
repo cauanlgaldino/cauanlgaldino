@@ -1,6 +1,6 @@
 ## Opa! Me chamo Cauan Galdino 👋🏽
 
-Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy e atualmente curso Engenharia de Computação no IFCE.
+Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy. Atualmente curso Engenharia de Computação no IFCE e faço partes da Organização do CocoaHeads Fortaleza.
 
 <div>
   <img height="180em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
