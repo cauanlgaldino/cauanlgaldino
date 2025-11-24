@@ -4,11 +4,9 @@ Sou desenvolvedor iOS focado em criar bem pensadas e eficazes. Finalizei a turma
 
 
 <div>
-
 <a href="https://github.com/cauanlgaldino">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=dark"/> 
-
 </div>
 
 ##
