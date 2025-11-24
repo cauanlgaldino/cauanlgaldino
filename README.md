@@ -1,9 +1,7 @@
 ## Opa! Me chamo Cauan Galdino 👋🏽
 
-Sou desenvolvedor iOS focado em criar soluções simples, funcionais e bem pensadas. Atualmente curso Engenharia de Computação no IFCE e finalizei a turma regular do Apple Developer Academy.
+Sou desenvolvedor iOS focado em criar bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy e atualmente curso Engenharia de Computação no IFCE.
 
-### Tecnologias e focos atuais
-- Swift • SwiftUI • UIKit  
 
 <div align="center">
 
@@ -24,17 +22,26 @@ Sou desenvolvedor iOS focado em criar soluções simples, funcionais e bem pensa
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 </div>
 
-
-## 🐍 Minhas contribuições
-
 <div align="center">
-  
-![Snake animation](https://github.com/cauanlgaldino/cauanlgaldino/blob/output/github-contribution-grid-snake.svg)
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/cauan-galdino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/cauanlgaldino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:cauanlgaldino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- GitHub (acesso ao seu perfil) -->
+  <a href="https://github.com/cauanlgaldino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
 </div>
-
----
-
-## 📫 Onde me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/cauan-galdino  
-- **Email:** cauanlgaldino@gmail.com  
