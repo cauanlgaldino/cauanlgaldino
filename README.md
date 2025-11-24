@@ -7,7 +7,7 @@ Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finali
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-##
+###
 
 <!-- <div style="display: inline_block"><br> -->
 <div>
@@ -18,7 +18,7 @@ Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finali
   <img align="center" alt="Go" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 </div>
 
-## 
+###
 
 <div>
   <a href="https://www.linkedin.com/in/cauan-galdino-2867a0297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
