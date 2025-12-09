@@ -2,10 +2,10 @@
 
 Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy. Atualmente curso Engenharia de Computação no IFCE e faço partes da Organização do CocoaHeads Fortaleza.
 
-<div>
+<!-- <div>
   <img height="180em" style="margin-right: 24px;" src="https://github-readme-stats.vercel.app/api?username=cauanlgaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanlgaldino&layout=compact&langs_count=8&theme=dark"/>
-</div>
+</div> -->
 
 ##
 
