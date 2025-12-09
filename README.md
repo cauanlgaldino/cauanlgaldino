@@ -1,4 +1,4 @@
-## Opa! Me chamo Cauan Galdino 👋🏽
+## Olá! Me chamo Cauan Galdino 👋🏽
 
 Sou desenvolvedor iOS focado em criar soluções bem pensadas e eficazes. Finalizei a turma regular do Apple Developer Academy. Atualmente curso Engenharia de Computação no IFCE e faço partes da Organização do CocoaHeads Fortaleza.
 
